@@ -44,7 +44,7 @@ Smisher integrates with the following SMS providers and gateways:
 **Contact Us**
 --------------
 
-If you have any questions or need assistance with using Smisher, please don't hesitate to [contact us](mailto:phishingkit@onionmail.com).
+Let me know if you'd like me to add anything else! [contact me](mailto:phishingkit@onionmail.com).
 
 **License**
 ---------
